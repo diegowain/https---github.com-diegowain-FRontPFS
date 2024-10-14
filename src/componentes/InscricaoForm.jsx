@@ -73,7 +73,7 @@ function InscriptionForm() {
               </option>
              
             ))}
-             <option value="36730438894">36730438894</option>
+            
           </select>
         </div>
         <div>
@@ -85,7 +85,7 @@ function InscriptionForm() {
                 {job.cargo} - Código: {job.codigo}
               </option>
             ))}
-            <option value="3">3</option>
+          
           </select>
         </div>
         <button type="submit">Cadastrar Inscrição</button>
